@@ -14,3 +14,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+// Revisar
+// contraseña = "ranyan"
+// usuario = input()
+// while usuario != contraseña:
+    // usuario = input()
+// print("Permiso concedido")
